@@ -1,0 +1,2 @@
+pypiwin32==300
+pywinpty==1.1.1
